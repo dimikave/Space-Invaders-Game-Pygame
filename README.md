@@ -1,4 +1,4 @@
-# Space-Invaders-Game-Pygame
+# Space-Invaders-Game-Pygame-2016
 This is a simple version of the famous game "Space Invaders" made for practice purposes with the Pygame Library of Python / First year in the University 
 
 ## Status of the project
